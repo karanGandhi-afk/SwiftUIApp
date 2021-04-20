@@ -21,7 +21,7 @@ struct ContentView: View {
                 }
                 
             
-        Text("Hello World")
+        Text("Hello")
             .font(.body)
             .fontWeight(.medium)
             .foregroundColor(Color.green)
